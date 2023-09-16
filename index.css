@@ -1,0 +1,189 @@
+*{
+    margin:0%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    padding: 1.8%;
+}
+.navbar a{
+ text-decoration: none;
+ font-size: 17px;
+ color: black;
+ margin-left: 4%;
+ vertical-align: middle;
+ font-weight: bold;
+}
+.logo{
+    margin: 0% !important;
+}
+#signIn{
+    background-color:#00baf2 ;
+    color: white;
+  border-radius: 25px;
+  padding: 1%;
+  margin-left: 1%;
+  border: none;
+  width :10%;
+  font-weight: bold;
+  font-size: 18px;
+}
+.wallet{
+    background-color: #f6f6f6;
+    text-align: center;
+    padding: 1%;
+}
+.emoji{
+    font-size: 20px;
+}
+.sec2{
+    display: flex;
+    justify-content: space-between;
+    padding: 5% 0% 5% 5%;
+    margin-top: 2%;
+}
+.UPI{
+    margin-left: -6%;
+}
+.UPI p{
+    font-size: 22px;
+    font-weight: normal;
+    margin-left: 3%;
+}
+.UPI h1{
+    margin-left: 3%;
+}
+#app{
+    border: 1px solid black;
+    width: 43%;
+    border-radius: 23px;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    font-size: 17px;
+    margin-left: 4%;
+    margin-top: 6%;
+}
+#app:hover{
+    background-color: white;color: black;
+
+}
+.app i{
+    margin: 0% 2%;
+}
+.one{
+    margin-top: 5%;
+    font-size: 60px;
+}
+.two2{
+    font-size: 60px;
+}
+.two{
+    margin-top: 6%;
+}
+/* sec3*/
+.head2{
+    padding: 2%;
+    padding-left: 7%;
+    text-align: Left;
+    color: white;
+    font-size: 34px;
+   
+    
+}
+.sec3{
+    text-align: center;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    background-color: #00baf2;
+}
+.div3{
+    display: flex;
+    justify-content: space-between;
+    padding: 6%;
+    margin-left: 4%;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'poppins'sans-serif;
+}
+.div3 a{
+    text-decoration: none;
+    color: white;
+}
+.sec33{
+        text-align: center;
+        margin-top: 0%;
+        margin-bottom: 0%;
+        background-color: #00275a;
+}
+.head22{
+        padding: 2%;
+        padding-left: 7%;
+        text-align: left;
+        color: white;
+        font-size: 34px;
+        font-family: sans-serif;
+}
+.div33{
+    display: flex;
+    justify-content: space-between;
+    padding: 6%;
+    margin-left: 4%;
+    font-weight: bold;
+    text-decoration: none;
+    color: black;
+    font-size: 18px;
+    line-height: 30px;
+    font-family: 'poppins'sans-serif;
+}
+.div33 a{
+    text-decoration: none;
+    color: white;
+}
+.sec-4{
+    background-color: whitesmoke;
+    padding: 5%;
+}
+.div-2{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    padding: 5%;
+    justify-content: space-around;
+
+}
+.paytm-instructions{
+    font-size: 3rem;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.img-2 {
+    width: 5vw 
+}
+.love-2{
+    font-size: 2rem;
+    font-family: sans-serif;
+    font-weight: bold;
+    margin-top: 5%;
+
+}
+.para-2{
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    margin-bottom: 9%;
+}
+.sec4{
+    background-color: whitesmoke;
+    padding: 8% 2%;
+}
+.sec4-div1{
+    background-color: white;
+    display: flex;
+    padding: 5%;
+}
+.sec4-div1-1{
+
+}
